@@ -1,0 +1,11 @@
+C:\Users\Silviox\source\repos\HondaRaspberryPIOBD1\HondaDashboard\bin\Debug\HondaDashboard.exe.config
+C:\Users\Silviox\source\repos\HondaRaspberryPIOBD1\HondaDashboard\bin\Debug\HondaDashboard.exe
+C:\Users\Silviox\source\repos\HondaRaspberryPIOBD1\HondaDashboard\bin\Debug\HondaDashboard.pdb
+C:\Users\Silviox\source\repos\HondaRaspberryPIOBD1\HondaDashboard\obj\Debug\HondaDashboard.csprojAssemblyReference.cache
+C:\Users\Silviox\source\repos\HondaRaspberryPIOBD1\HondaDashboard\obj\Debug\HondaDashboard.Connection.resources
+C:\Users\Silviox\source\repos\HondaRaspberryPIOBD1\HondaDashboard\obj\Debug\HondaDashboard.Dashboard.resources
+C:\Users\Silviox\source\repos\HondaRaspberryPIOBD1\HondaDashboard\obj\Debug\HondaDashboard.Properties.Resources.resources
+C:\Users\Silviox\source\repos\HondaRaspberryPIOBD1\HondaDashboard\obj\Debug\HondaDashboard.csproj.GenerateResource.cache
+C:\Users\Silviox\source\repos\HondaRaspberryPIOBD1\HondaDashboard\obj\Debug\HondaDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Silviox\source\repos\HondaRaspberryPIOBD1\HondaDashboard\obj\Debug\HondaDashboard.exe
+C:\Users\Silviox\source\repos\HondaRaspberryPIOBD1\HondaDashboard\obj\Debug\HondaDashboard.pdb
